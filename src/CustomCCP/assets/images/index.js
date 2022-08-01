@@ -1,1 +1,0 @@
-export { default as default_image } from './ico-ccp-logo.svg';

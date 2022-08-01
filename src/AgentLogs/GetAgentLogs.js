@@ -68,13 +68,13 @@ function GetAgentLogs() {
         let chunkMessages = chunks.map( a => {
             let newLog = a?.message;
             if (newLog) {
-            let i;
-            if (sourceOfLogs === CANARY) {
-              i = newLog.indexOf('log chunk:') + 10; 
-            } else if (sourceOfLogs === INTEG_TEST) {
-              i = (newLog.indexOf('log chunk:') > -1) ? newLog.indexOf('log chunk:') + 10 : 0; 
-            }
-            return newLog.slice(i);
+              let i;
+              if (sourceOfLogs === CANARY) {
+                i = newLog.indexOf('log chunk:') + 10; 
+              } else if (sourceOfLogs === INTEG_TEST) {
+                i = (newLog.indexOf('log chunk:') > -1) ? newLog.indexOf('log chunk:') + 10 : 0; 
+              }
+              return newLog.slice(i);
             } else {
             return "";
             }
