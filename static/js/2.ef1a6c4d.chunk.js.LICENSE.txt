@@ -11,15 +11,6 @@ https://github.com/mholt/PapaParse
 License: MIT
 */
 
-/*!
-               * The buffer module from node.js, for the browser.
-               *
-               * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
-               * @license  MIT
-               */
-
-/*! @license sprintf.js | Copyright (c) 2007-2013 Alexandru Marasteanu <hello at alexei dot ro> | 3 clause BSD license */
-
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
