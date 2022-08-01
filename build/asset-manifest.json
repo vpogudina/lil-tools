@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lil-tools/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lil-tools/static/js/main.b56195f2.chunk.js",
+    "main.js.map": "/lil-tools/static/js/main.b56195f2.chunk.js.map",
+    "runtime-main.js": "/lil-tools/static/js/runtime-main.2bcdea1c.js",
+    "runtime-main.js.map": "/lil-tools/static/js/runtime-main.2bcdea1c.js.map",
+    "static/js/2.ef1a6c4d.chunk.js": "/lil-tools/static/js/2.ef1a6c4d.chunk.js",
+    "static/js/2.ef1a6c4d.chunk.js.map": "/lil-tools/static/js/2.ef1a6c4d.chunk.js.map",
+    "static/js/3.0ec6eb9d.chunk.js": "/lil-tools/static/js/3.0ec6eb9d.chunk.js",
+    "static/js/3.0ec6eb9d.chunk.js.map": "/lil-tools/static/js/3.0ec6eb9d.chunk.js.map",
+    "index.html": "/lil-tools/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/lil-tools/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ef1a6c4d.chunk.js.LICENSE.txt": "/lil-tools/static/js/2.ef1a6c4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bcdea1c.js",
+    "static/js/2.ef1a6c4d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b56195f2.chunk.js"
+  ]
+}
