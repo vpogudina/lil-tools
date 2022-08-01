@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "target": "es2017",
+      "allowSyntheticDefaultImports": false,
+      "baseUrl": "./src",
+      "paths": {
+        "connect-components":  ["components/index.js"],
+        "connect-core": ["components/core/index.js"],
+        "connect-services":  ["services/index.js"],
+        "connect-hooks":  ["hooks/index.js"],
+        "connect-chat": ["components/Chat/index.js"],
+        "connect-task": ["components/Task/index.js"],
+        "connect-softphone": ["components/Softphone/index.js"],
+        "connect-constants":  ["constants/global"],
+        "connect-images": ["assets/images/index.js"],
+        "connect-prop-types": ["propTypes/index.js"],
+        "connect-theme": ["theme/index.js"],
+        "connect-app-context":  ["context/index.js"],
+        "connect-app-config":  ["configs/AppConfig"],
+        "connect-fac":  ["configs/FAC"]
+      }
+    },
+    "exclude": ["node_modules", "dist"]
+  }
+  
